@@ -1,4 +1,4 @@
-# Empty File for test
+# Fixes going on
 
-Going to add something soon 
-just working to fix the code's look with the help of dear friend ChatGPT
+The script to find subdomains is added.
+soon i will add the main script which is having some issues
