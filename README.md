@@ -7,6 +7,6 @@
 ## How to use
 
 1. Genrate the list of sub_domains and store them into a file named `targets.txt`.
-    - You can use the [SubDomainFinder](~\SubDomainFinder) script I created(It requires the `subfinder` tool).
+    - You can use the [SubDomainFinder](SubDomainFinder) script I created(It requires the `subfinder` tool).
 2. Run the `SleepingScan.sh` file.
 3. Wait and all your scans will be in the logs folder.
