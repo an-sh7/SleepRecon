@@ -1,6 +1,6 @@
 # Sleeping Scan
 
-1. This tool runs in the background while you are doing something else ot sleeping.
+1. This tool runs in the background while you are doing something else or sleeping.
 2. It can be used in the bug bounty programs
 3. It has security measures which slows down the scan to comply with bug bounty programs.
 
